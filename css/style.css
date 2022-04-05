@@ -6,11 +6,13 @@
 
 .nav__main {
     padding: 15px;
-    background-color: antiquewhite;
+    background-color: #faebd7;
     text-align: center;
 }
 
 .nav__main li {
     display: inline-block;
     margin-right: 20px;
+    text-transform: uppercase;
+    font-weight: bold;
 }
