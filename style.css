@@ -3,3 +3,14 @@
     margin: 0;
     padding: 0;
 }
+
+.nav__main {
+    padding: 15px;
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+.nav__main li {
+    display: inline-block;
+    margin-right: 20px;
+}
